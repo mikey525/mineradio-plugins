@@ -11,9 +11,8 @@
       "category": "音源",
       "url": "packages/mr-lx-source-2.0.5.zip",
       "format": "zip",
-      "sha256": "a21989e7c450f5384c0066ae3877ad0b3256f42eb446350d264dc56a34a12243",
-      "size": 66682,
-      "minAppVersion": "2.5.0"
+      "sha256": "ec18c61a8664bbb27ff4aa7c018c1b2111e4a645b64ef220d94ee78e1ee756c4",
+      "size": 66668
     },
     {
       "id": "partita-preset",
